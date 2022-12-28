@@ -1,0 +1,50 @@
+CIFAR10
+Creating model: vit-Base--CIFAR10-LR[0.001]-Seed0
+Number of params: 2,692,426
+Initial learning rate: 0.001000
+Start training for 100 epochs
+label smoothing used
+Stochastic depth(0.1) used 
+Cutmix used
+Mixup used
+Repeated Aug(3) used
+Autoaugmentation used
+Random erasing(0.25) used 
+CIFAR10
+Creating model: vit-Base--CIFAR10-LR[0.001]-Seed0
+Number of params: 2,692,426
+Initial learning rate: 0.001000
+Start training for 100 epochs
+label smoothing used
+Stochastic depth(0.1) used 
+Cutmix used
+Mixup used
+Repeated Aug(3) used
+Autoaugmentation used
+Random erasing(0.25) used 
+CIFAR10
+Creating model: vit-Base--CIFAR10-LR[0.001]-Seed0
+Number of params: 2,692,426
+Initial learning rate: 0.001000
+Start training for 100 epochs
+label smoothing used
+Stochastic depth(0.1) used 
+Cutmix used
+Mixup used
+Repeated Aug(3) used
+Autoaugmentation used
+Random erasing(0.25) used 
+best top-1: 93.42, final top-1: 93.31
+CIFAR10
+Creating model: vit-Base--CIFAR10-LR[0.001]-Seed0
+Number of params: 2,692,426
+Initial learning rate: 0.001000
+Start training for 100 epochs
+label smoothing used
+Stochastic depth(0.1) used 
+Cutmix used
+Mixup used
+Repeated Aug(3) used
+Autoaugmentation used
+Random erasing(0.25) used 
+best top-1: 93.58, final top-1: 93.58

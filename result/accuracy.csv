@@ -1,0 +1,37 @@
+model,gpu,dataset,top-1 accuracy
+ResNet152,K80,CIFAR-10,96.37
+ResNet152,K80,CIFAR-100,74.52
+ResNet152,K80,TinyImageNet,59.2
+ResNet152,V100,CIFAR-10,96.63
+ResNet152,V100,CIFAR-100,74.44
+ResNet152,V100,TinyImageNet,60.5
+ResNet152,P100,CIFAR-10,95.56
+ResNet152,P100,CIFAR-100,75.85
+ResNet152,P100,TinyImageNet,61.1
+VIT-B,K80,CIFAR-10,93.63
+VIT-B,K80,CIFAR-100,72.92
+VIT-B,K80,TinyImageNet,61.2
+VIT-B,V100,CIFAR-10,93.94
+VIT-B,V100,CIFAR-100,70.88
+VIT-B,V100,TinyImageNet,64.9
+VIT-B,P100,CIFAR-10,94.33
+VIT-B,P100,CIFAR-100,74.43
+VIT-B,P100,TinyImageNet,63.4
+Deformable VIT,K80,CIFAR-10,94.25
+Deformable VIT,K80,CIFAR-100,71.04
+Deformable VIT,K80,TinyImageNet,63.2
+Deformable VIT,V100,CIFAR-10,96.35
+Deformable VIT,V100,CIFAR-100,72.52
+Deformable VIT,V100,TinyImageNet,65.2
+Deformable VIT,P100,CIFAR-10,94.97
+Deformable VIT,P100,CIFAR-100,73.11
+Deformable VIT,P100,TinyImageNet,63.9
+Swin-Transformer,K80,CIFAR-10,95.18
+Swin-Transformer,K80,CIFAR-100,77.94
+Swin-Transformer,K80,TinyImageNet,60.93
+Swin-Transformer,V100,CIFAR-10,94.99
+Swin-Transformer,V100,CIFAR-100,77.63
+Swin-Transformer,V100,TinyImageNet,59.93
+Swin-Transformer,P100,CIFAR-10,95.18
+Swin-Transformer,P100,CIFAR-100,77.79
+Swin-Transformer,P100,TinyImageNet,61.87
